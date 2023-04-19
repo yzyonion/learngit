@@ -4,4 +4,8 @@ Git is free software.修改一行
 第一次add
 第二次add
 创建dev分支
-dev1分支
+<<<<<<< HEAD
+dev1、2分支
+=======
+dev2分支
+>>>>>>> dev2
